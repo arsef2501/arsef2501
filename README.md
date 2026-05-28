@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @arsef2501
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# arsef2501 | Network Penetration Tester
 
-<!---
-arsef2501/arsef2501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I write offensive security tools and dig into network protocols, not small apps.
+
+- 🔍 Interest: Network pentesting, AD security, red teaming, reverse engineering
+- 🧰 Toolbox: Nmap, Wireshark, BloodHound, Metasploit, custom Python/C scripts
+- 📝 Code review & scripting: Python, Bash, C, PowerShell
+- 🧠 Currently learning: Windows internals, AV evasion, and detection engineering
+- 🤝 Open to collaborate on: pentesting frameworks, network scanners, or reversing challenges
